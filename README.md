@@ -5,4 +5,5 @@
 - [Practical Work 3 - Parsing with spaCy](pw3/)
 - [Practical Work 4 - Named entities tagging using NLTK, spaCY and DistilBERT](pw4/)
 - [Practical Work 5 - word2vec and its utilities](pw5/)
+- [Practical Work 6 - Lexical disambiguation three ways](pw6/)
 
