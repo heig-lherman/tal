@@ -2280,7 +2280,7 @@ $$
 $$
  mr. spiotto  said that  he  hoped  the situation  could be resolved among  all creditors  , and that  a bankruptcy  filing would n't be in  anybody   's interest_4  . 
 $$
- net interest_6 income  --  income  from  fannie mae 's investment portfolio  minus  interest  paid on  borrowings  and  other related costs  -- rose to  $ 301.5 million  from  $ 217.2 million   the year  before . 
+ net interest_6 income  --  income  from  fannie mae 's investment portfolio  minus  *interest  paid on  borrowings  and  other related costs  -- rose to  $ 301.5 million  from  $ 217.2 million   the year  before .
 $$
  they  need  some good examples  of how to apply  the technology  if  they  are to pique  customers ' interest_1  , lest  image-processing  become just  another solution  in  search  of  a problem  . 
 $$
@@ -3176,7 +3176,7 @@ without  an interest_6 rate increase  in  west germany  --  a move   that  proba
 $$
  he  added that  the rise  in  official rates  would put  a solid floor  under  short-term rates  near existing  levels  , allowing for  additional gains  in  interest_6 rates   that  would reduce  the flow  of  funds  to  the u.s  . 
 $$
-under  the new arrangement  ,  phillips  will hold  an 82 % working interest_5  in  the acreage  , as well as act as  operator  , and  northwest  will hold  the  remaining  18 % interest  . 
+under  the new arrangement  ,  phillips  will hold  an 82 % working interest_5  in  the acreage  , as well as act as  operator  , and  northwest  will hold  the  remaining  18 % *interest  .
 $$
 ======================================  the partial sale  of  west germany 's 16th-largest bank  is  the first major public offering  since  may 1988  , when  the government  sold  its  remaining  60 % interest_5  in  aluminum  ,  energy  , and  chemical concern viag ag  . 
 $$
@@ -3396,7 +3396,7 @@ $$
 $$
 ====================================== as  he  grew  older  ,  mr. fu 's interest_1  in  politics  faded . 
 $$
-====================================== additionally ,  the pending sale  of  a 12 % interest_5  in  enron oil  &  gas  ,  which   moody 's  expects to generate  proceeds  of at  least $ 130 million  , will enable  enron  to continue  its ongoing debt-reduction program  and reduce  its interest burden  ,  moody 's  said . 
+====================================== additionally ,  the pending sale  of  a 12 % interest_5  in  enron oil  &  gas  ,  which   moody 's  expects to generate  proceeds  of at  least $ 130 million  , will enable  enron  to continue  its ongoing debt-reduction program  and reduce  its *interest burden  ,  moody 's  said .
 $$
 ====================================== under  interlake 's restructuring plan  ,  which  is generally thought to have deflected  any possible mark iv interest_1  ,  the company  also borrowed  $ 550 million  to pay for  the dividend  and to refinance  previous debt holdings  . 
 $$
